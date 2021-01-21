@@ -4,4 +4,4 @@ Student : `Daan Verheij`
 
 Klas    : `0A`
 
-Link    : [github_username.github.io](github_username.github.io)
+Link    : https://daanverheij.github.io/Challenge-Portfolio/portfolio/
