@@ -1,0 +1,46 @@
+/* Hier hoef je niks mee te doen */
+*{
+    font-size:0;
+}
+
+#container{
+    width: 800px;
+    height: 100%;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+}
+
+/* Hieronder kun je gaan editen */
+
+#bovenkant{
+    width: 800px;
+    height: 200px;
+    background-color: lightblue;
+}
+
+#middenkant-1{
+    width: 800px;
+    height: 30px;
+    background-color: white;
+}
+
+#middenkant-2{
+    width: 800px;
+    height: 100px;
+    background-color: black;
+}
+
+#middenkant-3{
+    width: 800px;
+    height: 30px;
+    background-color: white;
+}
+
+#onderkant{
+    width: 800px;
+    height: 200px;
+    background-color:lightblue;
+
+
+}
+
